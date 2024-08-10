@@ -12,3 +12,6 @@ jobs:
 
     - name: Step 2 - Run pipeline.sh
       run: ./pipeline.sh
+
+    - name: Step 3 - Run update_linux.sh
+      run: ./update_linux.sh
