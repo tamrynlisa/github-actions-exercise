@@ -4,6 +4,4 @@
  # List all files in the repository
  echo "Listing files:"
  ls -la
- ```
 
- 
