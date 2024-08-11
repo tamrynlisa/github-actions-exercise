@@ -15,3 +15,6 @@ jobs:
 
     - name: Step 3 - Run update_linux.sh
       run: ./update_linux.sh
+
+    - name: Step 4 - Run create_file.sh
+      run: ./create_file.sh
