@@ -12,4 +12,3 @@ if [ -f "$new_file" ]; then
 else
     echo "Failed to create the file '$new_file'."
 fi
-
